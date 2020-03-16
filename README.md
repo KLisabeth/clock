@@ -15,4 +15,4 @@
 
 > This code was well organized before `development-strategy`!
 
-> Please check it out by the following link [projects]()
+> Please check it out by the following link [projects]( https://klisabeth.github.io/clock-exercise)
